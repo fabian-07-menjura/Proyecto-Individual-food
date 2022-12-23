@@ -2,7 +2,7 @@
 
 # Proyecto Individual - Food
 
-<p align="right">
+<p align="left">
   <img height="200" src="./cooking.png" />
 </p>
 
