@@ -1,0 +1,24 @@
+.containerPaginacion {
+  display: flex;
+  gap: 1vw;
+  justify-content: center;
+}
+
+.btnPaginacion {
+  background: #2e1a06;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-family: cursive;
+  font-size: 1.5vw;
+  font-weight: bold;
+}
+
+.btnPaginacion[disabled] {
+  color: rgb(129, 125, 125);
+  cursor: no-drop;
+}
+
+p {
+  font-family: cursive;
+}

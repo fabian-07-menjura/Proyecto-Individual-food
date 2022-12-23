@@ -1,0 +1,16 @@
+.home {
+  display: flex;
+  flex-wrap: wrap;
+  font-family: cursive;
+  justify-content: center;
+}
+footer {
+  text-align: left;
+  margin-left: 2vw;
+  margin-bottom: 5vw;
+  margin-top: 4vw;
+}
+footer a {
+  text-decoration: none;
+  color: white;
+}

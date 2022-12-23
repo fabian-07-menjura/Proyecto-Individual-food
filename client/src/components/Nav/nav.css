@@ -1,0 +1,126 @@
+.nav {
+  background: #2e1a06;
+  /* border-bottom: 1px solid #754f29; */
+  display: flex;
+  height: 7vw;
+  margin-top: 0.1vw;
+  padding: 2vw 2vw 4vw 2vw;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5vw;
+}
+.divRefresh {
+  width: 9vw;
+  height: 5vw;
+}
+
+.divRefresh button {
+  background: #2e1a06;
+  border: none;
+  color: rgb(139, 136, 136);
+  font-family: cursive;
+  font-size: 1.4vw;
+  margin-top: 0vw;
+}
+.divRefresh button:hover {
+  cursor: pointer;
+  color: white;
+}
+.divRefresh button:active {
+  font-size: 1.2vw;
+}
+
+.buscarReceta {
+  display: flex;
+  font-size: 1.9vw;
+  margin-bottom: 2vw;
+}
+.labelInput {
+  color: white;
+  margin-left: 28vw;
+}
+.buscarReceta input {
+  background: white;
+  border-color: white;
+  border-radius: 0.5vw;
+  color: #2e1a06;
+  font-family: cursive;
+  font-size: 1.4vw;
+  height: 2vw;
+  margin-left: 1vw;
+  width: 15vw;
+}
+.buscarReceta input:focus {
+  outline: none;
+}
+
+.selectDieta {
+  width: 100%;
+  height: 10vw;
+}
+.selectDieta button {
+  color: rgb(209, 204, 204);
+  background: #2e1a06;
+  border: none;
+  border-bottom: 2px solid #2e1a06;
+  font-family: cursive;
+  font-size: 1.3vw;
+  margin-left: 1.5vw;
+}
+.selectDieta button:hover {
+  border-bottom: 2px solid rgb(209, 204, 204);
+  cursor: pointer;
+}
+.selectDieta button:focus {
+  border-bottom: 2px solid white;
+  color: white;
+  cursor: pointer;
+}
+
+.selectOrden {
+  color: white;
+  font-size: 1.5vw;
+  margin-left: 3vw;
+  margin-top: 2.5vw;
+}
+
+.selectOrden select {
+  background: #2e1a06;
+  border-radius: 0.5vw;
+  color: white;
+  font-size: 1.2vw;
+  height: 2.5vw;
+  margin-left: 1vw;
+  width: 12vw;
+}
+.selectOrden select:focus {
+  border-color: white;
+}
+.selectOrden select option {
+  font-family: cursive;
+}
+.btnAgregar {
+  height: 4vw;
+  margin-left: 30vw;
+}
+.crearReceta {
+  background: #2e1a06;
+  border-color: white;
+  border-radius: 100%;
+  color: white;
+  font-family: cursive;
+  font-size: 2.2vw;
+  height: 3vw;
+  width: 3vw;
+  margin: 0.1vw 0vw 0vw 0vw;
+  transition: all ease 0.2s;
+}
+
+.crearReceta:hover {
+  border-color: white;
+  box-shadow: 0 0 10px 2px white;
+  color: white;
+  cursor: pointer;
+  font-size: 1.8vw;
+}

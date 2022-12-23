@@ -1,0 +1,38 @@
+.paginaInicial {
+  background: url("./image/recetas2.jpg") no-repeat center / cover;
+  height: 45.5vw;
+}
+
+.titulo {
+  color: white;
+  font-family: cursive;
+  font-size: 3vw;
+  left: 50%;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0 25px 5px rgba(0, 0, 5, 5);
+  top: 20%;
+  transform: translate(-50%, -50%);
+}
+
+.boton {
+  background: rgba(21, 13, 8, 0.927);
+  border: none;
+  border-radius: 1vw;
+  color: white;
+  font-family: cursive;
+  font-size: 2vw;
+  font-weight: bold;
+  height: 4vw;
+  letter-spacing: 5px;
+  margin-top: 20vw;
+  text-transform: uppercase;
+  transition: all ease 0.9s;
+  width: 20vw;
+}
+
+.boton:hover {
+  background: #2e1a06;
+  box-shadow: 0 0 10px 2px rgb(83, 55, 29);
+  cursor: pointer;
+}

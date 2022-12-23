@@ -1,0 +1,20 @@
+.containerFrase {
+  border-radius: 1vw;
+  box-shadow: 0 1px 5px 1px rgb(234, 124, 14);
+  height: 5vw;
+  margin: 0.5vw;
+  width: 13vw;
+}
+.botonContainer {
+  background: #2e1a06;
+  border: none;
+  color: white;
+  margin-left: 10vw;
+}
+.botonContainer:hover {
+  cursor: pointer;
+}
+.fraseContainer {
+  font-size: 1.2vw;
+  margin-top: 0vw;
+}

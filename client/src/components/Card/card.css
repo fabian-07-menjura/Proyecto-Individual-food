@@ -1,0 +1,43 @@
+.card {
+  background: #2e1a06;
+  border-radius: 1rem;
+  box-shadow: 0 30px 20px 2px rgb(234, 124, 14);
+  font-size: 20px;
+  margin: 2vw 2vw 5vw 4vw;
+  padding: 1vw 2vw 1vw 2vw;
+  width: 20vw;
+}
+.linkDetalle:hover {
+  border-radius: 1vw;
+  box-shadow: 0px 20px 60px 0px white;
+  cursor: pointer;
+}
+
+.card h1 {
+  color: white;
+  font-size: 1.5vw;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.card h4 {
+  color: white;
+}
+.card p {
+  color: white;
+  font-size: 1.5vw;
+}
+.divImagen {
+  height: 12vw;
+}
+.imgDog {
+  height: 12vw;
+  border-radius: 1vw;
+  width: 20vw;
+}
+.imgDog:hover {
+  height: 11.7vw;
+  transition: all ease 0.3s;
+  width: 19.7vw;
+}

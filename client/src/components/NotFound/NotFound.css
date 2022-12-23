@@ -1,0 +1,13 @@
+.containerError {
+  background: url("./img/error404.jpg") no-repeat center / cover;
+  height: 42vw;
+  margin-left: 2vw;
+  margin-right: 2vw;
+  box-shadow: 0 0 10px 2px rgb(234, 124, 14);
+  border-radius: 1vw;
+  font-family: cursive;
+}
+.containerError h1 {
+  padding-top: 8vw;
+  font-size: 3vw;
+}
