@@ -40,7 +40,7 @@ funcionalidades:
 
 ### Vistas
 
- <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+ <p align="left"> <a href="https://github.com/fabian-07-menjura" target="_blank" rel="noreferrer"> 
  <img width="90%" src="https://user-images.githubusercontent.com/86250631/209405675-4ba38124-472e-491a-bc38-25723e233801.png"/>
  <img width="90%" src="https://user-images.githubusercontent.com/86250631/209405730-25423a7a-edb2-462d-ad28-18646eea9b34.png"/>
  <img width="45%" src="https://user-images.githubusercontent.com/86250631/209405761-4317176c-1834-4f46-8e89-ff3e387e2394.png"/>
